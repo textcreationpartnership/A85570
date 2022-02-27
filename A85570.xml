@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and blovdy fight neer Droghedah in Ireland, on Thursday last, being the 6. of this instant September, 1649. between the forces commanded by the Marqesse of Ormond, the Lord Inchiquin, the Lord Governour Cromwell, and Major Generall Ireton. With the manner how the Lord Inchiquin engaged in person with fifeeen [sic] of his best troops, against the Lord Cromwels horse, the number killed and taken on both sides, the routing of three great bodies, and the Marq. of Ormonds letter to Prince Charles, concerning his victory. Also, the Levellers declaration for a new Parliament, the recovery of Englands lost freedoms, and for ease of the people from all burdens and oppressions (as they say) with the sending of a letter to all the garrisons in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85570</idno>
+            <idno type="STC">Wing G1645</idno>
+            <idno type="STC">Thomason E573_15</idno>
+            <idno type="STC">ESTC R206231</idno>
+            <idno type="EEBO-CITATION">99865405</idno>
+            <idno type="PROQUEST">99865405</idno>
+            <idno type="VID">165397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and blovdy fight neer Droghedah in Ireland, on Thursday last, being the 6. of this instant September, 1649. between the forces commanded by the Marqesse of Ormond, the Lord Inchiquin, the Lord Governour Cromwell, and Major Generall Ireton. With the manner how the Lord Inchiquin engaged in person with fifeeen [sic] of his best troops, against the Lord Cromwels horse, the number killed and taken on both sides, the routing of three great bodies, and the Marq. of Ormonds letter to Prince Charles, concerning his victory. Also, the Levellers declaration for a new Parliament, the recovery of Englands lost freedoms, and for ease of the people from all burdens and oppressions (as they say) with the sending of a letter to all the garrisons in England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Williamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>the 12. of September, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Ireton, Henry, 1611-1651 --  Early works to 1800.</term>
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165397:1" rendition="simple:additions"/>
+            <p>A GREAT AND BLOVDY FIGHT NEER Droghedah in Ireland, <hi>ON Thurſday</hi> laſt, being the 6 of this inſtant <hi>September,</hi> 1649. between the Forces commanded by the Marqeſſe of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> the Lord <hi>Inchiquin,</hi> the Lord Governour <hi>Cromwell,</hi> and Major Generall <hi>Ireton.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> The manner how the Lord <hi>Inchiquin</hi> engaged in perſon with fifeeen of his beſt Troops, againſt the Lord <hi>Crom<g ref="char:EOLhyphen"/>wels</hi> horſe, the number killed and taken on both ſides, the routing of three great Bodies, and the Marq. of <hi>Ormonds</hi> letter to Prince <hi>Charles,</hi> concerning his victory.</p>
+            <p>
+               <hi>ALSO,</hi> The <hi>Levellers</hi> Declaration for a new Parliament, the reco<g ref="char:EOLhyphen"/>very of <hi>Englands</hi> loſt freedoms, and for eaſe of the people from all burdens and oppreſſions (as they ſay) with the ſending of a letter to all the Garriſons in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Williamſon,</hi> the 12. of September, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <div type="body_of_account">
+               <pb facs="tcp:165397:2"/>
+               <pb n="1" facs="tcp:165397:2"/>
+               <head>A bloudy FIGHT IN IRELAND Between The Marqueſſe of <hi>Ormonds</hi> forces, and the Lord Go<g ref="char:EOLhyphen"/>vernour <hi>Cromwels,</hi> neer the ſtrong town of <hi>Drog<g ref="char:EOLhyphen"/>hedah,</hi> on <hi>Thurſday</hi> laſt, being the 5. of this inſtant Septemb. 1649.</head>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>VPon the advance of the Lord Governour <hi>Cromwell</hi> towards <hi>Droghedah,</hi> great was the preparation of the Marq. of <hi>Ormond,</hi> and the Lord <hi>Inchiquin</hi> to receive him, and upon his neer ap<g ref="char:EOLhyphen"/>proach with the Van of his horſe, a ſelected party were
+<pb n="2" facs="tcp:165397:3"/>drawn forth of the choiceſt Regiments, to repreſent the Royall ſalutation (as they call'd it) and according<g ref="char:EOLhyphen"/>ly the Lord <hi>Inchiquin</hi> had the honour and conduct of theſe <hi>Marſhalling Troops,</hi> who no ſooner had march<g ref="char:EOLhyphen"/>ed four miles from the town, but a diſcovery were made of a great Body of the Parl horſe; whereupon he drew out a Forlorn conſiſting of two hundred horſe, commanded by Lieutenant Colonell <hi>Gerrard,</hi> who ad<g ref="char:EOLhyphen"/>vanced about Musket ſhot from the Body, the reſt marching after.</p>
+               <p>The Parliaments forces ſeeing this, immediatly ec<g ref="char:EOLhyphen"/>cho'd forth a great deal of alacrity to diſpute an en<g ref="char:EOLhyphen"/>gagement, drawing out a Forlorn likewiſe, and advan<g ref="char:EOLhyphen"/>cing towards them; inſomuch, that after an hours rallying, and wheeling for wind and ground, both bo<g ref="char:EOLhyphen"/>dies had embattail'd themſelves in a well-diſciplin'd poſture for the receiving of each others charge with the moſt advantage and ſafety.</p>
+               <p>And after ſome ſhort time ſpent in conſultation by the Officers, the Trumpets ſounded, and both parties joyned battail, a moſt violent and deſperate charge be<g ref="char:EOLhyphen"/>ing given to each other at the firſt onſet, during which conflict, ſharp and cruell was the action, each man ſtriving for Conqueſt, and endeavouring to become maſter of the field; but the victory ſeemed dubious a long time, untill by main force; the enemies left wing were diſordered and put to a retreat, which the right wing, and the Center-body ſeeing (for they were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vi<g ref="char:EOLhyphen"/>ded into three bodies) began to decline further engage<g ref="char:EOLhyphen"/>ment, endeavouring an honourable retreat, but the L. Governours horſe falling in with them, upon their wheeling off, divers of them were killed and taken pri<g ref="char:EOLhyphen"/>ſoners,
+<pb n="3" facs="tcp:165397:3"/>the reſt received ſanctuary neer a ſpacious bog, where they rallyed, and by the comming in of a freſh Reſerve of three Regiments of horſe, commanded by Colonell <hi>Steward,</hi> Colonell <hi>Cotton,</hi> and Collonell <hi>Cun<g ref="char:EOLhyphen"/>ningham,</hi> the Lord <hi>Inchiquia</hi> attempted a ſecond On<g ref="char:EOLhyphen"/>ſet againſt the Lord Governours forces, who finding themſelves to be both overpowred and unfitting for a ſecond engagement, made an honourable retreat with the loſſe of thirty men, the enemy not daring to em<g ref="char:EOLhyphen"/>brace purſuit for a mile together, whoſe loſſe we hear was exceeding great in the firſt engagement, by eſti<g ref="char:EOLhyphen"/>mation at leaſt three hundred.</p>
+               <p>In this conflict the Lord <hi>Inchiquin</hi> deported him<g ref="char:EOLhyphen"/>ſelf with great gallantry in the very heat and midſt of the battell; but Collonell <hi>Fitz-Williams</hi> (who com<g ref="char:EOLhyphen"/>manded the left wing) demean'd himſelf with as much treachery and cowardiſe.</p>
+               <p>Since which fight, we likewiſe further hear, that the Marqueſſe hath ſent a letter to the Prince, intimating, that upon the advance of our forces towards <hi>Droghe<g ref="char:EOLhyphen"/>dah,</hi> he fell upon them, routed, killed and diſperſt many hundreds, &amp;c. which ſeems as incredible as his former, and only pen'd in a falſe and contrary ſtile for the pre<g ref="char:EOLhyphen"/>ſent ſupport of his young Soveraigns drooping ſpirits. The Lord Governour is within a days march of <hi>Dro<g ref="char:EOLhyphen"/>hedah</hi> with his whole Army of horſe and foot, where he intends to fight the enemy, if they ſtay, and to lay ſiege to the town; of which more by the next.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dublin</hi> 
+                     <date>7. <hi>Septemb.</hi> 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letters">
+               <pb n="4" facs="tcp:165397:4"/>
+               <p>By Letters further from <hi>Ireland</hi> thus: Sir, The ſtrength of the Marqueſſe of <hi>Ormond</hi> is very great, his Army grows numerous, and reſolved men for a field, being for the moſt part confident of ſucceſs, notwith<g ref="char:EOLhyphen"/>ſtanding their late defeat; the conjuction of the Lord <hi>Inchiquin,</hi> the Lord <hi>Ards,</hi> the Earl of <hi>Clanrickard,</hi> and the Earl of <hi>Castlehaven,</hi> are ſaid to be at leaſt twenty thouſand horſe and foot, our army not above twelve thouſand, but reſolved to fight them; that which doth moſt retard conqueſt, is, by reaſon of the Countries coming in to the enemies aſſiſtance to oppoſe our Ar<g ref="char:EOLhyphen"/>mies further march up into the Country; yet many of the Engliſh Inhabitants denies to yeeld obedience to the Marq. of <hi>Ormonds</hi> Summons, notwithſtanding the rigor of the L. <hi>Moor,</hi> (Governour of <hi>Tredagh</hi> againſt them, who hath declared his reſolution to fight it out to the laſt man for <hi>Charles</hi> the II, rather then to yeeld it to the power and obedience of the Parliament of <hi>England,</hi> but many are of opinion, that upon the Lord Governours approach neer him, he will be of another mind. The L. Inchiquin hath purged all Munſter Gari<g ref="char:EOLhyphen"/>ſons of ſuch as he ſuſpected might prove frends to the Lord Lieutenant.</p>
+               <p>From Scotland they write, That the Letter to be ſent to their king is drawn up without any alteration, and is full both as to the direction of Parl. and to former inſtructions propoſed: the Solemn League and Na<g ref="char:EOLhyphen"/>tionall Govenant being both put home: its poſſible there may be a contracting of the diſaffected party, and that the quitting Montroſs and a few more may con<g ref="char:EOLhyphen"/>tent, taking in ſuch as will repent, and go handſomly a<g ref="char:EOLhyphen"/>long with the Marq. and his party.</p>
+               <pb n="5" facs="tcp:165397:4"/>
+               <p>On Sunday laſt was a day of humiliation, at which the miniſters expreſſed great good affection to their king. Let him but ſign what they deſire, and he in<g ref="char:EOLhyphen"/>ſtantly becomes a godly man, and well affected; make a covenant contrary to that, and let him ſubſcribe, he is again godly and well addicted: the Scriptures, and old rules, being for that uſe out of date far and wide.</p>
+               <p>Milford Haven Sep. 1, Col. Abbots Dragoons were ſhipt hence they went out to Sea, ℞ were wind-bound two days; after which, with a ſide-wind they went off, intending for Dublin, but no news yet of their arri<g ref="char:EOLhyphen"/>vall. Col. Hortons, and the Maj. Gen. foot are ſhipping away after them.</p>
+               <p>Many of the Lord Lieu. horſe were ſick and weak at their landing, eſpecially thoſe that were carryed to<g ref="char:EOLhyphen"/>wards Munſter, to ſeek footing, but found none. The Mar. of Ormonds horſe are accompted 4000 his foot 3000, with whom the L. Clanrickard is joyned with 800, and 4000 foot, they randezvouz neer Tredagh on the other ſide of a ſpacious River, and within a mile of a Bog, which is 3 miles long, he hath cauſed all the Bridges to be cut off, drives the Country of Cattell, and hath laid them in as a ſtore at Tredagh, Trim, and other Garriſons; all men in that kingdom fit to bear arms are gotten into a poſture of war, about 5000 have declared for the Lord Gover. many hundreds lie inwards; what the event wil be, we leave unto him that governs all.</p>
+               <p>By Letters from Oxford thus: Divers of Col: <hi>In<g ref="char:EOLhyphen"/>goldsbies</hi> Regiment, and other diſcontented parties of the Gariſon, being much unſatisfied with the proce<g ref="char:EOLhyphen"/>dings of the Parl. and army, have revolted, and agreed
+<pb n="6" facs="tcp:165397:5"/>on a Declaration to be publiſhed, ſhewing the grounds and reaſons of their engagement <hi>viz. For a diſsoluti<g ref="char:EOLhyphen"/>on of this preſent Parl. and for eltcting a free Repreſen<g ref="char:EOLhyphen"/>tative.</hi> 2 <hi>For ſigning of the Agreement of the people.</hi> 3 <hi>For a Councell of Agitators, according to the engagement at Triplo Heath, &amp;c.</hi> This being lookt upon as a buſines of great concernment, it was thought fit to ſend down a conſiderable party againſt them; and on Sunday night a letter was ſent to the Governors of all the Garriſons of <hi>England,</hi> to give them intimation of theſe diſtem<g ref="char:EOLhyphen"/>pers, and require their care of their ſeveral charges, thereby to avoid the like. And withall, that a copy of the letter intercepted, ſhould be incloſed therein, to ſhew the compliance and co-actings of thoſe called <hi>Levellers</hi> and the Royaliſts. Since their revolt, divers horſe and foot come in to them night and day in great numbers, their Councel conſiſted moſt of private ſol<g ref="char:EOLhyphen"/>diers at firſt, but ſome head-pieces lately come from <hi>London,</hi> are added to them, they keep their guards very ſtrong, and are ſtricter then ever we knew any, decla<g ref="char:EOLhyphen"/>ring. <hi>That their friends in other Garriſons will joyn with them, and that they doubt not but (within one month) to have a potent Army in the field, being aſsured, that not four Regiments in the Army will prejudice ahem in this quarrell, for recovery of</hi> Englands <hi>lost freedoms, and for eaſe of the people from all burthens and oppreſſions; for obtaining whereof, both they and all the honest Souldiery of</hi> England <hi>were reſolved to hazard their lives and for<g ref="char:EOLhyphen"/>tunes.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>T.J.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
